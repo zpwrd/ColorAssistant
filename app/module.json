@@ -1,0 +1,9 @@
+{
+  "name": "Speech Assist Redirect",
+  "description": "Перехватывает интент heytap.intent.action.ACTIVATE_SPEECH_ASSIST и перенаправляет его на com.parallelc.micts.",
+  "version": "1.0",
+  "author": "Ваше Имя",
+  "minApi": 15,
+  "targetApi": 33,
+  "main": "com.xnn.sosi.MainHook"
+}

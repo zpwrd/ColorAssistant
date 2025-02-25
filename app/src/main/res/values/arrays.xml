@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>android</item> <!-- Системные сервисы -->
+        <item>com.android.systemui</item> <!-- Системный интерфейс -->
+        <item>com.heytap.speechassist</item> <!-- Китайский ассистент -->
+    </string-array>
+</resources>
